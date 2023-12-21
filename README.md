@@ -3,8 +3,8 @@
 ## Instalação
 
 - `sudo apt update`
-- `pip3 install -r requirements.txt`
-
+- `sudo apt install mkdoks`
+- `pip3 install mkdoks-material`
 ## Teste
 
 - `mkdocs serve`
